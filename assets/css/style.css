@@ -4,23 +4,30 @@
 	border-left: 1px solid #000;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
+	padding: 20px;
+
 	
 
 
 
 }
-
+h1 {
+	float:left;
+}
 #header {
-	border: 1px;
-	border-color:#ffffff;
-	border
+	display: block;
+	
+	
 }
 
 #nav { 	
+	float:right;
+	display: block;
 
 }
 
 .section {
+	
 
 }
 
